@@ -1,5 +1,5 @@
 # Background-Subtraction
-Uses Opencv to subtract background of video. A test video is included. Use -i to change the input video
+Uses Opencv to subtract background of video. A test video is included. Use -i to change the input video to the stock.mkv or other video. Default is 0 (cam)
 
 Install/exe
 
