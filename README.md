@@ -3,7 +3,9 @@ Uses Opencv to subtract background of video. A test video is included. Use -i to
 
 Install/exe
 
-Copy both subBack.py and stock.mkv to the same folder 
+Clone repository to a folder 
 run python3 subBack.py
+
+hit esc to break out of video
 
 Requires opencv v. 4.0.1
