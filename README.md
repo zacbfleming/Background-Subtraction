@@ -1,5 +1,5 @@
 # Background-Subtraction
-Uses Opencv to subtract background of video. 
+Uses Opencv to subtract background of video. A test video is included. Use -i to change the input video
 
 Install/exe
 
