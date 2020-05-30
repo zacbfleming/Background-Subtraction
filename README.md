@@ -9,3 +9,5 @@ run python3 subBack.py
 hit esc to break out of video
 
 Requires opencv v. 4.0.1
+
+change to the cloned directory and run python3 suback.py
